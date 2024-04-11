@@ -16,7 +16,7 @@ We are going to make randome sample, conduct a two-sample hypothesis test to see
 
  
 ## Part 1: Business Problem
-<img src="problem_10266358.png" width="100" height="100" align=left  >
+<img src="images/problem_10266358.png" width="100" height="100" align=left  >
 Department of Education asks to collect data on mean district literacy rates for two of the nation’s largest states: STATE21 and STATE28. <br> STATE28 has almost 40 districts, and STATE21 has more than 70.
 <br> Due to limited time and resources, we are only able to survey 20 randomly chosen districts in each state. 
 <br> The department asks to determine if the difference between the two mean district literacy rates reflect a true difference between the state populations or it is just due to chance.
@@ -27,7 +27,7 @@ Department of Education asks to collect data on mean district literacy rates for
 
 
 ## Part 2: Data Undrestanding
-<img src="survey_10266430.png" width="100" height="100" align=left  >
+<img src="images/survey_10266430.png" width="100" height="100" align=left  >
 
 After EDA phase, we'll: 
 * Simulate taking a random sample of 20 districts in each state.
@@ -37,7 +37,7 @@ After EDA phase, we'll:
 
 
 ## Part 3: Modeling and Evaluation
- <img src="creative-writing_10266412.png" width="100" height="100" align=left  >
+ <img src="images/creative-writing_10266412.png" width="100" height="100" align=left  >
  * Here we can see that, based on sample data, the observed difference between the mean district literacy rates of STATE21 and STATE28 is almost 5%. 
 <br> But due to sampling variability, this observed difference might simply be due to chance, rather than an actual difference in the corresponding population means. 
 <br> At this point, we use a hypothesis test to determine whether or not the results are statistically significant.
@@ -60,7 +60,7 @@ After EDA phase, we'll:
 
 
 ## Part 4: Conclusion
-<img src="value_10266329.png" width="100" height="100" align=left  >
+<img src="images/value_10266329.png" width="100" height="100" align=left  >
 
 The p-value of 1.7%, is less than the significance level of 5%. 
  
